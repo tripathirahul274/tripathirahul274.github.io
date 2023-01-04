@@ -32,7 +32,7 @@ function Resume() {
                 // date="2022 – Present"
 
                 content={[
-                  "From -Masai School , Banglore",
+                  "From -Masai School , Bangalore",
                   "June(2022) - Present",
                   "1200 hours of hands - on coding.",
                   "700 hours for DSA.",
