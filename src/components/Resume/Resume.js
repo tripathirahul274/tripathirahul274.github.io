@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Rahul-Tripathi-Resume.pdf";
+import pdf from "../../Assets/Rahul_Tripathi_Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
@@ -33,9 +33,9 @@ function Resume() {
 
                 content={[
                   "From -Masai School , Banglore",
-                  "Date - (2022) - Present",
+                  "June(2022) - Present",
                   "1200 hours of hands - on coding.",
-                  "1000 hours for DSA.",
+                  "700 hours for DSA.",
                   "50 hours for soft skills development.",
                   "3 collaborative projects and 30+ mini-projects.",
                 ]}
@@ -48,7 +48,7 @@ function Resume() {
                 content={[
 
                   "IHM Jodhpur ,Jodhpur",
-                  "2016-2018"
+                  "2017-2019"
                 ]}
               />
 

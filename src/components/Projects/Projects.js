@@ -44,7 +44,7 @@ function Projects() {
                 imgPath={relience}
                 isBlog={false}
                 title="Lifestylestore Clone"
-                tool= "React,Redux,ChakraUi,JavaScript, CSS"
+                tool= "React,Redux,Chakra-Ui,JavaScript, CSS"
                 description="A lifestyle store is a retail store selling a wide variety of product categories under a single brand."
                 link="https://github.com/Sagar1079/ultra-field-1415"
                 demoLink="https://awake-fashion.netlify.app/"
@@ -52,7 +52,7 @@ function Projects() {
             </Col>
 
             {/* movie 2.0 ------------------------------------------------------------- */}
-          
+
 {/*
 
 
@@ -66,6 +66,17 @@ function Projects() {
                 description="OLX is part of OLX Group, a network of leading marketplaces present in 30+ countries with 20+ brands."
                 link="https://github.com/Bishwajit0759/-likeable-air-3346"
                 demoLink="https://legendary-fenglisu-a8f60a.netlify.app/"
+              />
+            </Col>
+            <Col md={6} className="project-card">
+              <ProjectCard
+                imgPath={resta}
+                isBlog={false}
+                title="Kickstarter Clone"
+                tool="  JavaScript,HTML, CSS"
+                description="Kickstarter is an American public benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity."
+                link="https://github.com/sudarshan441/mammoth-zoo-7517"
+                demoLink="https://symphonious-genie-ba7aaf.netlify.app/"
               />
             </Col>
 
