@@ -11,14 +11,14 @@ function Resume() {
       {/* <Particle2 /> */}
       <Container fluid className="resume-section">
         <Container>
-          {/* <Row style={{ justifyContent: "center", position: "relative" }}>
+          <Row style={{ justifyContent: "center", position: "relative" }}>
             <Button variant="primary" href={pdf} target="_blank">
               <AiOutlineDownload />
               &nbsp;Download CV
             </Button>
-          </Row> */}
+          </Row>
           <Row className="resume">
-            {/* <Col md={6} className="resume-left">
+             {/* <Col md={6} className="resume-left">
               <h3 className="resume-title">Trainee</h3>
 
 
