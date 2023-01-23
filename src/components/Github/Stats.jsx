@@ -15,14 +15,15 @@ export const Stats = () => {
                     </a>
                 </div>
             </div>
+            <br></br>
 
-            {/* <div className="stats-3">
+             <div className="stats-3">
                 <p align="center">
                 <a href="https://github.com/tripathirahul274">
                         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathirahul274&bg_color=0D1117" alt="" />
                     </a>
                 </p>
-            </div> */}
+            </div>
 
             <div className="stats-2">
                 <p align="center">

@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import pdf from "../../Assets/Rahul_Tripathi_Resume.pdf";
 
 function About2() {
     return (
@@ -17,6 +18,7 @@ function About2() {
                                  I'm an enthusiastic fresher, seeking a career with a progressive organization
                                   to capitalize on my skills and abilities in the ﬁeld of information
                                   technology, and eager to learn new technologies and methodologies.
+
                             </span>
                             <br />
                             <br />
