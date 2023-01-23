@@ -4,7 +4,7 @@ import profile from "../../Assets/profile.jpg";
 import ContectLogo from "./ContectLogo";
 import Type from "./Type";
 import Button from "react-bootstrap/Button";
-import pdf from "../../Assets/Rahul_Tripathi_Resume.pdf";
+import pdf from "../../Assets/Rahul-Tripathi-Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 function Home() {
   return (

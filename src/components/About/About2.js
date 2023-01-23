@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import pdf from "../../Assets/Rahul_Tripathi_Resume.pdf";
+import pdf from "../../Assets/Rahul-Tripathi-Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 function About2() {
     return (
