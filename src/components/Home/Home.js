@@ -3,12 +3,15 @@ import { Container, Row, Col } from "react-bootstrap";
 import profile from "../../Assets/profile.jpg";
 import ContectLogo from "./ContectLogo";
 import Type from "./Type";
-
+import Button from "react-bootstrap/Button";
+import pdf from "../../Assets/Rahul_Tripathi_Resume.pdf";
+import { AiOutlineDownload } from "react-icons/ai";
 function Home() {
   return (
     <section id="scrollHome" className="activeNavlink">
       <Container fluid className="home-section" id="home">
         <Container className="home-content">
+
           <Row>
             <Col md={7} className="home-header">
               <h6 className="heading">
@@ -47,6 +50,12 @@ function Home() {
                 className="img-fluid my-img-home"
               />
             </Col>
+          </Row>
+          <Row style={{ justifyContent: "center", position: "relative" }}>
+            <Button variant="primary" href={pdf} target="_blank">
+              <AiOutlineDownload />
+              &nbsp;Download CV
+            </Button>
           </Row>
         </Container>
       </Container>
