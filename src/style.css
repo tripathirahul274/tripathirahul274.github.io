@@ -1,11 +1,11 @@
 html {
   --section-background-color: linear-gradient(to bottom left,
-      rgba(58, 0, 8, 0.582),
-      rgba(17, 1, 65, 0.904));
+      black,
+      black);
 
   --image-gradient: linear-gradient(to bottom left,
-      rgba(58, 0, 8, 0.582),
-      rgba(17, 1, 65, 0.904));
+      black,
+      black);
 
   --imp-text-color: #0095ff;
 }
