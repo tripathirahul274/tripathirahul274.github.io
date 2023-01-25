@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0375a26.css",
-    "main.js": "/static/js/main.f18bcbc3.js",
+    "main.js": "/static/js/main.9d2b379e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/bigbasket.png": "/static/media/bigbasket.7326b22e530619569afa.png",
     "static/media/relience.png": "/static/media/relience.e5343353481570ef4110.png",
@@ -18,11 +18,11 @@
     "static/media/about-bg.svg": "/static/media/about-bg.fc32ab7c501be4f13773.svg",
     "index.html": "/index.html",
     "main.c0375a26.css.map": "/static/css/main.c0375a26.css.map",
-    "main.f18bcbc3.js.map": "/static/js/main.f18bcbc3.js.map",
+    "main.9d2b379e.js.map": "/static/js/main.9d2b379e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0375a26.css",
-    "static/js/main.f18bcbc3.js"
+    "static/js/main.9d2b379e.js"
   ]
 }
