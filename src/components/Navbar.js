@@ -116,18 +116,22 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            <Nav.Item >
               <Nav.Link
+              target="blank"
+              href="https://drive.google.com/file/d/11U1dFoE1a_1v4YUoSgRIxJJ_ZpOEzfP5/view?usp=share_link"
                 // as={Link}
                 // to="/resume"
-                onClick={() => scrollToFunction("scrollResume")}
+                // onClick={() =>
+                //   window.location.href="https://drive.google.com/file/d/11U1dFoE1a_1v4YUoSgRIxJJ_ZpOEzfP5/view?usp=share_link" }
               >
-                {/* <span style={pathname === "/resume" ? { color: "#0095ff", fontWeight: "bold" } : {}}>Resume</span> */}
-                <span>Resume</span>
+                {/* { <span style={pathname === "/resume" ? { color: "#0095ff", fontWeight: "bold" } : {}}>Resume</span> } */}
+                <span >  Resume</span>
+
               </Nav.Link>
             </Nav.Item>
 
-           
+
 
             <Nav.Item>
               <Nav.Link
